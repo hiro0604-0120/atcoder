@@ -9,15 +9,15 @@ int main()
 
     if (op == "+")
     {
-        cout << A + B << endl;
+        cout << a + b << endl;
     }
     else if (op == "-")
     {
-        cout << A - B << endl;
+        cout << a - b << endl;
     }
     else if (op == "*")
     {
-        cout << A * B << endl;
+        cout << a * b << endl;
     }
     else if (op == "/")
     {
