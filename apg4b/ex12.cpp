@@ -19,8 +19,7 @@ int main()
     {
       count--;
     }
-    else if (S.at(i) == '1')
-    {
+    else {
       continue;
     }
   }
